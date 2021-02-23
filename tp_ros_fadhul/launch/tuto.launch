@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="tp_ros_fadhul" name="publisher" type="publisher"/>
+</launch>
